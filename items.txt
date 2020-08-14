@@ -1,0 +1,80 @@
+
+
+grc
+1-PULSES
+2-SOAP
+3-DETERGENTS
+4-SOUPS
+5-RICE .
+
+jrc
+1-EGGS
+2-CLOTHES
+3-MOBILES
+4-COVERS
+5-CHOCOLATES .
+
+
+
+mat
+1-PULSES
+2-SOAP
+3-DETERGENTS
+4-SOUPS
+5-RICE .
+
+ass
+1-PAINTS
+2-JEWELLERY
+3-STONES
+4-POPCORNS
+5-MAGZINES .
+
+ker
+1-TOOTHPASTE
+2-TOOTHBRUSH
+3-FLOUR
+4-RICE
+5-BUTTER .
+
+aap
+1-EGGS
+2-CLOTHES
+3-MOBILES
+4-COVERS
+5-CHOCOLATES .
+
+lpu
+1-dhjjksd
+2-jhhjkss
+3-shfuks
+4-uru
+5-dfhgdhkfj
+
+lpv
+1-rukr
+2-erty
+3-qwertyu
+4-erty
+5-thwywyj
+
+
+
+
+1-ghh
+2-vv
+3-wdf
+4-we
+5-wetre .
+
+
+
+
+
+
+
+
+
+
+
+

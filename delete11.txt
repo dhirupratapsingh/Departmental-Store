@@ -1,0 +1,23 @@
+
+pgw
+1-PANTS
+2-JEWELLERY
+3-STONES
+4-POPCORNS
+5-MAGZINES .
+
+pav
+1-erty
+2-dfghj
+3-cvbn
+4-erty
+5-as .
+
+
+
+lko
+1-TOOTHPASTE
+2-TOOTHBRUSH
+3-FLOUR
+4-RICE
+5-BUTTER .
